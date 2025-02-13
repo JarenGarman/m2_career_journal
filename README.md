@@ -2,7 +2,7 @@
 
 ## Mod 1 Journal
 
-Paste the link to your Mod 1 Career Journal gist here: ___
+Paste the link to your Mod 1 Career Journal gist here: [Link](https://github.com/JarenGarman/m1_project_reflections)
 
 ## Solo Project
 
