@@ -6,15 +6,23 @@ Paste the link to your Mod 1 Career Journal gist here: [Link](https://github.com
 
 ## Solo Project
 
-Link to your project repo:
-
-Link to your project board (if applicable)
+Link to your project repo: [Link](https://github.com/JarenGarman/hang-in-there)
 
 ### Solo Project Reflections
 
 1. At the beginning of the project, what part(s) of the project were you most nervous about? At the end, do you feel those concerns were justified?
+
+    I was most nervous about the layout and styling with CSS. It did end up being a bit easier than I imagined but I also learned a lot in the process.
+
 2. Describe one thing you got stuck on during the project. Based on that experience, have you made/do you plan to make any specific changes to the way you prepare for the next project?
+
+    I did get stuck for a while on deleting a specific object from an array. I initially used filter to reassign the array to a new one without the target element. I ended up refactoring to turn the array into and object to make it easier to delete a particular element. After doing this, I ended up helping some of my cohortmates with their projects and learned some cool ways that they had figured out to delete an element from an array. Next project, I will lean more heavily on our codehelp slack channel to get help from my cohortmates.
+
 3. List 2-3 bullet points about your process and/or accomplishments from working on this project (things you could highlight on your resume).
+
+    - Working with query selectors, event listeners, and event handlers
+    - Using javascript to add/remove/manipulate elements on the DOM
+    - Comp matching using CSS flex-box
 
 ---
 
